@@ -1,0 +1,8 @@
+#ifndef SCREEN_OPERATOR_INSTRUCTION_SCREEN_H
+#define SCREEN_OPERATOR_INSTRUCTION_SCREEN_H
+
+void screenOperator_MainScreen_Instruction_Page1();
+void screenOperator_MainScreen_Instruction_Page2();
+void screenOperator_MainScreen_Instruction_Page3();
+
+#endif

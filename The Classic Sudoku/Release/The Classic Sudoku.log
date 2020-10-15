@@ -1,0 +1,44 @@
+﻿  getGoto.c
+  screenOperator_Main_CheckRateScreen.c
+  screenOperator_Main_InstructionScreen.c
+  screenOperator_Main_ReviewScreen.c
+  screenOperator_PlayScreen.c
+  screenText_PlayScreen.c
+  screenOperator_Main_OptionScreen.c
+  buffer_screenText.c
+  checkMatrix.c
+  setGoto.c
+  screenOperator_MainScreen.c
+  screenText_MainScreen_CheckRate.c
+  ScreenText_MainScreen_Option.c
+  getArr9.c
+  getBoxedNode.c
+  getBuffer.c
+  getMatrix.c
+  getDataStructure.c
+  screenText_MainScreen_Review.c
+  screenText_MainScreen.c
+  컴파일하고 있습니다...
+  printMatrixTextNode.c
+  setDataStructure.c
+  getMatrixTextNode.c
+  getString.c
+  getTextNode.c
+  main.c
+  printArr9.c
+  printMatrix.c
+  randArr9.c
+  setArr9.c
+  setMatrix.c
+  printBuffer.c
+  printTextNode.c
+  setBoxedNode.c
+  setBuffer.c
+  setString.c
+  setTextNode.c
+  setMatrixTextNode.c
+  screenText_MainScreen_Instruction.c
+  코드를 생성하고 있습니다.
+  All 140 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  The Classic Sudoku.vcxproj -> C:\Users\Kim ki heon\Desktop\20120045 김기헌 졸업작품\Release\The Classic Sudoku.exe

@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Calculate">
+      <UniqueIdentifier>{8a1e2819-4eab-435a-b344-c4dd75b431d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Screen">
+      <UniqueIdentifier>{b62d8839-78db-45f7-92b2-562df81ea0ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Screen\ScreenOperator">
+      <UniqueIdentifier>{a748c3df-f6f3-4605-b3c7-bd4ea62be345}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Calculate\Boxed Text">
+      <UniqueIdentifier>{8a61e2c8-d124-450a-af28-d11c0fb8df7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Calculate\Arr 9">
+      <UniqueIdentifier>{cc1b04ca-7be4-4759-b940-de1eed667aea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Calculate\Matrix">
+      <UniqueIdentifier>{81f72ac3-24ed-4994-b385-78dc1379e599}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Calculate\MatrixTextNode">
+      <UniqueIdentifier>{5d418642-f6c9-43d2-835a-7899f253b268}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Calculate\String">
+      <UniqueIdentifier>{831d8f23-1dac-4213-9ad0-d89c4f6f7ce2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Calculate\TextNode">
+      <UniqueIdentifier>{4a810246-0581-4ea9-979f-e88fdb9b99cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Screen\Buffer">
+      <UniqueIdentifier>{2e161d02-1d8c-42ad-a6bf-f7b6b013affb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Screen\Data Structure">
+      <UniqueIdentifier>{32ffe116-2c3b-45cd-958b-2ab653765106}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Screen\Goto">
+      <UniqueIdentifier>{9a64b9a0-6cd0-4eb7-93de-6d16d2f3e4b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Calculate\ScreenText">
+      <UniqueIdentifier>{720ab033-63e3-4dd7-82e3-814dd0165d02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Calculate\ScreenText\MainScreenText">
+      <UniqueIdentifier>{4ef99fc0-442e-458b-9874-f635b4e88de0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Calculate\ScreenText\MainScreenText\2. Instruction">
+      <UniqueIdentifier>{a32fb609-09bc-40d0-aab1-73ac3ebb91cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Calculate\ScreenText\MainScreenText\3. Game Option">
+      <UniqueIdentifier>{6800ab94-11d0-4dcf-9ef7-d5453e43312f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Calculate\ScreenText\MainScreenText\4. Check Rate">
+      <UniqueIdentifier>{bd8b3126-7e35-4007-a49f-360a4aa0a364}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Calculate\ScreenText\MainScreenText\5. Making Review">
+      <UniqueIdentifier>{e28d6c70-df5a-4ae4-b25b-cb26162e1440}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Calculate\ScreenText\MainScreenText\6. Exit">
+      <UniqueIdentifier>{b5e08410-6acd-4aa6-a328-3ec9661fca20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Calculate\ScreenText\PlayScreenText">
+      <UniqueIdentifier>{472807e8-c185-490b-9339-c2cfb6f88166}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Calulate">
+      <UniqueIdentifier>{aa222493-2357-413b-9286-8722e157d811}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Calulate\Arr 9">
+      <UniqueIdentifier>{e2bc1a74-90f1-440e-95ef-0a44645eafe1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Calulate\Boxed Text">
+      <UniqueIdentifier>{aa8527ba-3e80-4128-bcf9-68f4be13058d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Calulate\Matrix">
+      <UniqueIdentifier>{daea3167-8228-4ad5-9961-854ae13ec106}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Calulate\MatrixStringNode">
+      <UniqueIdentifier>{808cbce8-9ac7-48cf-a56e-e2534696c158}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Calulate\String">
+      <UniqueIdentifier>{87c55e55-d901-4d96-b3d9-70be45060f81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Screen">
+      <UniqueIdentifier>{38fe0350-c13d-40b5-be5f-ccde8cdc8efa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Screen\ScreenOperator">
+      <UniqueIdentifier>{7b1b9b68-4706-4b43-9359-3c60c80f1dd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Screen\Goto">
+      <UniqueIdentifier>{38f90602-d403-433e-8f67-d06d6eed009a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Screen\Data Structure">
+      <UniqueIdentifier>{f046e691-1024-4ab2-8d22-19c8711e47f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Screen\Buffer">
+      <UniqueIdentifier>{9573e550-fe86-4be0-86e1-60aaffe5d30c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Calulate\TextNode">
+      <UniqueIdentifier>{2ddb4184-9b8b-4559-9bb7-f2d249180924}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Calulate\ScreenText">
+      <UniqueIdentifier>{9e60e819-97ff-4a16-8537-c2a812b68cbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Calulate\ScreenText\MainScreen">
+      <UniqueIdentifier>{6ed255a4-d9c5-4fe3-8956-11161e97993b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Calulate\ScreenText\MainScreen\2. Instruction">
+      <UniqueIdentifier>{65fb68ce-be03-42d3-880e-ebfe74ebad5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Calulate\ScreenText\MainScreen\3. Game Option">
+      <UniqueIdentifier>{4e277441-5f84-4256-8f3e-78bad80493d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Calulate\ScreenText\MainScreen\4. Check Rate">
+      <UniqueIdentifier>{6e9254e2-ab50-4212-ac0a-b3276c33c5e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Calulate\ScreenText\MainScreen\5. Making Review">
+      <UniqueIdentifier>{b7e3e25a-63d3-4f75-a5a9-d9fe6447db51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Calulate\ScreenText\PlayScreen">
+      <UniqueIdentifier>{f1e018fa-6c11-43e6-a3d3-967bfb0ce0d4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\The Classic Sudoku\main.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\setTextNode.c">
+      <Filter>소스 파일\Calculate\TextNode</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\getTextNode.c">
+      <Filter>소스 파일\Calculate\TextNode</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\printTextNode.c">
+      <Filter>소스 파일\Calculate\TextNode</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\setString.c">
+      <Filter>소스 파일\Calculate\String</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\setBoxedNode.c">
+      <Filter>소스 파일\Calculate\Boxed Text</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\getBoxedNode.c">
+      <Filter>소스 파일\Calculate\Boxed Text</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\getString.c">
+      <Filter>소스 파일\Calculate\String</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\setBuffer.c">
+      <Filter>소스 파일\Screen\Buffer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\getBuffer.c">
+      <Filter>소스 파일\Screen\Buffer</Filter>
+    </ClCompile>
+    <ClCompile Include="printBuffer.c">
+      <Filter>소스 파일\Screen\Buffer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\getArr9.c">
+      <Filter>소스 파일\Calculate\Arr 9</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\setArr9.c">
+      <Filter>소스 파일\Calculate\Arr 9</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\printArr9.c">
+      <Filter>소스 파일\Calculate\Arr 9</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\randArr9.c">
+      <Filter>소스 파일\Calculate\Arr 9</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\getMatrix.c">
+      <Filter>소스 파일\Calculate\Matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\printMatrix.c">
+      <Filter>소스 파일\Calculate\Matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\setMatrix.c">
+      <Filter>소스 파일\Calculate\Matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\checkMatrix.c">
+      <Filter>소스 파일\Calculate\Matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="getMatrixTextNode.c">
+      <Filter>소스 파일\Calculate\MatrixTextNode</Filter>
+    </ClCompile>
+    <ClCompile Include="setMatrixTextNode.c">
+      <Filter>소스 파일\Calculate\MatrixTextNode</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\printMatrixTextNode.c">
+      <Filter>소스 파일\Calculate\MatrixTextNode</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenText_MainScreen_Option.c">
+      <Filter>소스 파일\Calculate\ScreenText\MainScreenText\3. Game Option</Filter>
+    </ClCompile>
+    <ClCompile Include="screenText_MainScreen_Instruction.c">
+      <Filter>소스 파일\Calculate\ScreenText\MainScreenText\2. Instruction</Filter>
+    </ClCompile>
+    <ClCompile Include="screenText_MainScreen_CheckRate.c">
+      <Filter>소스 파일\Calculate\ScreenText\MainScreenText\4. Check Rate</Filter>
+    </ClCompile>
+    <ClCompile Include="screenText_MainScreen_Review.c">
+      <Filter>소스 파일\Calculate\ScreenText\MainScreenText\5. Making Review</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\screenOperator_MainScreen.c">
+      <Filter>소스 파일\Screen\ScreenOperator</Filter>
+    </ClCompile>
+    <ClCompile Include="getDataStructure.c">
+      <Filter>소스 파일\Screen\Data Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="setDataStructure.c">
+      <Filter>소스 파일\Screen\Data Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="buffer_screenText.c">
+      <Filter>소스 파일\Screen\Buffer</Filter>
+    </ClCompile>
+    <ClCompile Include="setGoto.c">
+      <Filter>소스 파일\Screen\Goto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\getGoto.c">
+      <Filter>소스 파일\Screen\Goto</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\screenOperator_Main_InstructionScreen.c">
+      <Filter>소스 파일\Screen\ScreenOperator</Filter>
+    </ClCompile>
+    <ClCompile Include="screenOperator_Main_OptionScreen.c">
+      <Filter>소스 파일\Screen\ScreenOperator</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\screenOperator_Main_CheckRateScreen.c">
+      <Filter>소스 파일\Screen\ScreenOperator</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\screenOperator_Main_ReviewScreen.c">
+      <Filter>소스 파일\Screen\ScreenOperator</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\screenOperator_PlayScreen.c">
+      <Filter>소스 파일\Screen\ScreenOperator</Filter>
+    </ClCompile>
+    <ClCompile Include="screenText_MainScreen.c">
+      <Filter>소스 파일\Calculate\ScreenText\MainScreenText</Filter>
+    </ClCompile>
+    <ClCompile Include="..\The Classic Sudoku\screenText_PlayScreen.c">
+      <Filter>소스 파일\Calculate\ScreenText\PlayScreenText</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\The Classic Sudoku\getTextNode.h">
+      <Filter>헤더 파일\Calulate\TextNode</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\setTextNode.h">
+      <Filter>헤더 파일\Calulate\TextNode</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\printTextNode.h">
+      <Filter>헤더 파일\Calulate\TextNode</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\setString.h">
+      <Filter>헤더 파일\Calulate\String</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\setBoxedNode.h">
+      <Filter>헤더 파일\Calulate\Boxed Text</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\getString.h">
+      <Filter>헤더 파일\Calulate\String</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\getBoxedNode.h">
+      <Filter>헤더 파일\Calulate\Boxed Text</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\setBuffer.h">
+      <Filter>헤더 파일\Screen\Buffer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\getBuffer.h">
+      <Filter>헤더 파일\Screen\Buffer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\printBuffer.h">
+      <Filter>헤더 파일\Screen\Buffer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\getArr9.h">
+      <Filter>헤더 파일\Calulate\Arr 9</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\setArr9.h">
+      <Filter>헤더 파일\Calulate\Arr 9</Filter>
+    </ClInclude>
+    <ClInclude Include="printArr9.h">
+      <Filter>헤더 파일\Calulate\Arr 9</Filter>
+    </ClInclude>
+    <ClInclude Include="randArr9.h">
+      <Filter>헤더 파일\Calulate\Arr 9</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\getMatrix.h">
+      <Filter>헤더 파일\Calulate\Matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\printMatrix.h">
+      <Filter>헤더 파일\Calulate\Matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\setMatrix.h">
+      <Filter>헤더 파일\Calulate\Matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\checkMatrix.h">
+      <Filter>헤더 파일\Calulate\Matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="getMatrixTextNode.h">
+      <Filter>헤더 파일\Calulate\MatrixStringNode</Filter>
+    </ClInclude>
+    <ClInclude Include="setMatrixTextNode.h">
+      <Filter>헤더 파일\Calulate\MatrixStringNode</Filter>
+    </ClInclude>
+    <ClInclude Include="printMatrixTextNode.h">
+      <Filter>헤더 파일\Calulate\MatrixStringNode</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenText_MainScreen_Option.h">
+      <Filter>헤더 파일\Calulate\ScreenText\MainScreen\3. Game Option</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenText_MainScreen_Instruction.h">
+      <Filter>헤더 파일\Calulate\ScreenText\MainScreen\2. Instruction</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenText_MainScreen_CheckRate.h">
+      <Filter>헤더 파일\Calulate\ScreenText\MainScreen\4. Check Rate</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenText_MainScreen_Review.h">
+      <Filter>헤더 파일\Calulate\ScreenText\MainScreen\5. Making Review</Filter>
+    </ClInclude>
+    <ClInclude Include="screenText_MainScreen.h">
+      <Filter>헤더 파일\Calulate\ScreenText\MainScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\screenText_PlayScreen.h">
+      <Filter>헤더 파일\Calulate\ScreenText\PlayScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="screenOperator_MainScreen.h">
+      <Filter>헤더 파일\Screen\ScreenOperator</Filter>
+    </ClInclude>
+    <ClInclude Include="getDataStructure.h">
+      <Filter>헤더 파일\Screen\Data Structure</Filter>
+    </ClInclude>
+    <ClInclude Include="setDataStructure.h">
+      <Filter>헤더 파일\Screen\Data Structure</Filter>
+    </ClInclude>
+    <ClInclude Include="buffer_screenText.h">
+      <Filter>헤더 파일\Screen\Buffer</Filter>
+    </ClInclude>
+    <ClInclude Include="setGoto.h">
+      <Filter>헤더 파일\Screen\Goto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\getGoto.h">
+      <Filter>헤더 파일\Screen\Goto</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\screenOperator_Main_CheckRateScreen.h">
+      <Filter>헤더 파일\Screen\ScreenOperator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\screenOperator_Main_instructionScreen.h">
+      <Filter>헤더 파일\Screen\ScreenOperator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\screenOperator_Main_OptionScreen.h">
+      <Filter>헤더 파일\Screen\ScreenOperator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\screenOperator_Main_ReviewScreen.h">
+      <Filter>헤더 파일\Screen\ScreenOperator</Filter>
+    </ClInclude>
+    <ClInclude Include="..\The Classic Sudoku\screenOperator_PlayScreen.h">
+      <Filter>헤더 파일\Screen\ScreenOperator</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

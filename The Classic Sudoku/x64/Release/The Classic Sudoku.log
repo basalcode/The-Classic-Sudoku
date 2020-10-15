@@ -1,0 +1,49 @@
+﻿  getGoto.c
+  screenOperator_Main_CheckRateScreen.c
+  screenOperator_Main_InstructionScreen.c
+  screenOperator_Main_ReviewScreen.c
+  screenOperator_PlayScreen.c
+  screenText_PlayScreen.c
+  screenOperator_Main_OptionScreen.c
+c:\users\kim ki heon\desktop\20120045 김기헌 졸업작품\the classic sudoku\screenoperator_main_optionscreen.c(907): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  buffer_screenText.c
+  checkMatrix.c
+  setGoto.c
+  screenOperator_MainScreen.c
+  screenText_MainScreen_CheckRate.c
+  ScreenText_MainScreen_Option.c
+  getArr9.c
+  getBoxedNode.c
+c:\users\kim ki heon\desktop\20120045 김기헌 졸업작품\the classic sudoku\getboxednode.c(54): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  getBuffer.c
+  getMatrix.c
+  getDataStructure.c
+  screenText_MainScreen_Review.c
+  screenText_MainScreen.c
+  컴파일하고 있습니다...
+  printMatrixTextNode.c
+  setDataStructure.c
+  getMatrixTextNode.c
+  getString.c
+c:\users\kim ki heon\desktop\20120045 김기헌 졸업작품\the classic sudoku\getstring.c(12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  getTextNode.c
+  main.c
+  printArr9.c
+  printMatrix.c
+  randArr9.c
+  setArr9.c
+  setMatrix.c
+  printBuffer.c
+  printTextNode.c
+  setBoxedNode.c
+  setBuffer.c
+  setString.c
+  setTextNode.c
+c:\users\kim ki heon\desktop\20120045 김기헌 졸업작품\the classic sudoku\settextnode.c(29): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kim ki heon\desktop\20120045 김기헌 졸업작품\the classic sudoku\settextnode.c(46): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  setMatrixTextNode.c
+  screenText_MainScreen_Instruction.c
+  코드를 생성하고 있습니다.
+  All 140 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  The Classic Sudoku.vcxproj -> C:\Users\Kim ki heon\Desktop\20120045 김기헌 졸업작품\x64\Release\The Classic Sudoku.exe

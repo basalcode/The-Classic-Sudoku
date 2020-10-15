@@ -1,0 +1,22 @@
+#ifndef SCREEN_OPERATOR_OPTION_SCREEN_H
+#define SCREEN_OPERATOR_OPTION_SCREEN_H
+
+#include "getDataStructure.h"
+#include "setDataStructure.h"
+
+void screenOperator_MainScreen_Option_Main(PDATA data);
+void screenOperator_MainScreen_Option_Difficulty_Page1(PDATA data);
+void screenOperator_MainScreen_Option_Difficulty_Page2(PDATA data);
+void screenOperator_MainScreen_Option_NumberSetting_Page1(PDATA data);
+void screenOperator_MainScreen_Option_NumberSetting_Page2();
+void screenOperator_MainScreen_Option_SaveSheet(PDATA data);
+void screenOperator_MainScreen_Option_MusicDesigne_Page1(PDATA data);
+void screenOperator_MainScreen_Option_MusicDesigne_Page2(PDATA data);
+void screenOperator_MainScreen_Option_MusicDesigne_Page3();
+void screenOperator_MainScreen_Option_MusicDesigne_Page4();
+void screenOperator_MainScreen_Option_MusicDesigne_Page5();
+
+void screenOperator_MainScreen_Option_WARNING_wrongTier();
+char* screenOperator_MainScreen_Option_Music(PDATA data);
+
+#endif
